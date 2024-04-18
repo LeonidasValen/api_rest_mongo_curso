@@ -6,7 +6,7 @@ import cors from 'cors'
 
 // Usar middleware para parsear datos JSON y URL-encoded
 const corsOptions = {
-    origin: ['YOUR HOST FRONTEND'],// URL de la pagina para que pueda hacer operaciones 
+    origin: ['YOUR HOST FRONTEND'],// URL de la pagina para que pueda hacer operaciones desde otras url
     methods: ['GET', 'POST', 'PUT', 'DELETE'], // Limita los métodos permitidos
     allowedHeaders: ['Content-Type', 'Authorization'], // Limita los encabezados permitidos
     credentials: true // Habilita el uso de credenciales (cookies, encabezados de autorización, etc.)
