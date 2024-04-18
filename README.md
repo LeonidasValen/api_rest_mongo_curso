@@ -2,7 +2,7 @@
 # Editor.md
 
 <div style="display:flex;justify-content:center;">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"/ style="max-height:100px;">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" style="max-height:100px;">
 </div>
 
 
@@ -22,7 +22,7 @@ en el archivo .env conectalo a base datos mysql
 	PASS =
 	DB_LIMIT= LIMIT USER
 
-#####Luego en app.js porner el localhost del frontend en origin
+##### Luego en app.js porner el localhost del frontend en origin
 
 ```javascript
 const corsOptions = {
@@ -32,7 +32,7 @@ const corsOptions = {
     credentials: true,
 };
 ```
-#####Lo mismo en app.jsx del fontend
+##### Lo mismo en app.jsx del fontend
 ```javascript
 export const URI = "YOUR HOST BACKEND"
 ```
