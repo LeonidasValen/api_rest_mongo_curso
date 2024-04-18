@@ -1,9 +1,9 @@
 
 # Editor.md
 
-<div style="display:flex, justify-content:center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" style="width:150px;">
-</div>
+<center>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" style="width:250px;">
+</center>
 
 
 ## guia instalacion:
