@@ -2,7 +2,7 @@
 # Editor.md
 
 <div style="display:flex;justify-content:center;">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"/ style="max-width:150px;">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"/ style="max-width:100px;">
 </div>
 
 
